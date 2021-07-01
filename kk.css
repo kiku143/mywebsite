@@ -1,0 +1,141 @@
+ /*------------------------------km.html---------------------------*/
+ body
+{
+   background-color: #f6f5f5;
+}
+  H1
+   {
+    color: #273d21;
+    margin-left: 422px;
+   } 
+   .ivtx
+{
+   margin-right: 923%;
+}
+.kikk
+{
+   margin-left: 37%;
+}
+.raope
+{
+   margin-left: 41%;
+}
+
+.inset
+{
+    
+   width: 260px;
+   border-style: inset;
+   background-color: #cdfffc;
+   margin-left: 38%;
+}
+.kikk{
+   border-style: inset;
+   width: 310px;
+   background-color: #cdfffc;
+   margin-left: 32%;
+}
+.egam{
+   border-style: inset;
+   width:136px;
+   background-color: #cdfffc;
+   margin-left: 39%;
+}
+.dokm{
+   border-style: inset;
+   width: 152px;
+   background-color: #cdfffc;
+   margin-left: 38%;
+}
+.ivtx{
+   border-style: inset;
+   width: 117px;
+   background-color: #cdfffc;
+   margin-left: 40%;
+}
+.raope{
+   border-style: inset;
+   width: 194px;
+   background-color: #cdfffc;
+   margin-right: 18%;
+}
+#g
+{
+   margin-left:40px ;
+   padding: auto 3px;
+   size: 900px;
+}
+#sil
+{
+    font-size: 2rem;
+    margin-right: 40px;
+}
+#klkl
+{
+   font-size: 2rem;
+}
+
+#ENTERTAINMENT
+{
+    background-color: #edffea;
+}
+#SPORTS
+{
+    background-color: #edffea;
+}
+#SHOPPING
+{
+    background-color: #edffea;
+}
+#zmzm
+{
+    margin-left: 15px;
+}
+  #eded {
+    position: relative;
+    display: inline-block;
+  }
+  
+  #dpdp {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  #dpdp a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  #dpdp a:hover {background-color: #ddd;}
+  
+  #eded:hover #dpdp{display: block;}
+  
+  #dpdp:hover .dropbtn {background-color: #3e8e41;}
+#lklk
+{
+    margin-left: 170px;
+}
+#tyty
+{
+    font-size: 2rem;
+    padding-right: 4%;
+    margin-bottom: 100;
+}
+#mkl
+{
+    background-color: #edffea;
+}
+
+ /*------------------------------details.html---------------------------*/
+.FFL
+{
+    font-size: 1.5rem;
+}
+
+
